@@ -1,1 +1,1 @@
-# some libraries for interfacing with microcontrollers 
+# some libraries for interfacing with Arduino microcontrollers 
