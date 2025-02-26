@@ -1,1 +1,1 @@
-# some libraries for interfacing with Arduino microcontrollers 
+# some libraries for interfacing with Arduino( AVR) microcontrollers 
